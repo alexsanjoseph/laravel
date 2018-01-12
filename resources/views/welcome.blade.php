@@ -79,7 +79,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    EKAIAS. Coming Soon...
+                    EKAIAS
+                </div>
+
+                <div class="links">
+                    <a>Coming soon...</a>
                 </div>
             </div>
         </div>
