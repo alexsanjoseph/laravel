@@ -83,7 +83,7 @@
                 </div>
 
                 <div class="links">
-                    <a>Coming soon...</a>
+                    <a href="https://www.facebook.com/ekaiasmentor/">Coming soon...</a>
                 </div>
             </div>
         </div>
