@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    EKA IAS
+                    <a href="https://www.facebook.com/ekaiasmentor/">EKA IAS</a>
                 </div>
 
                 <div class="links">
