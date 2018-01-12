@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    EKAIAS
+                    EKA IAS
                 </div>
 
                 <div class="links">
